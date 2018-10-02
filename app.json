@@ -1,0 +1,11 @@
+{
+    "name": "ccxt-flask",
+    "description": "A sample Flask app for Exchange Tickers",
+    "author" : "Kevinton",
+    "keywords": [
+      "flask",
+      "python",
+      "sample"
+    ],
+    "repository": ""
+  }

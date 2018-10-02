@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+	<head>
+		{% block head %}
+		<link rel="stylesheet" href = "{{ url_for('static',filename='css/bootstrap.css') }}" ></link>
+		{% endblock %}
+	</head>
+
+   <body>
+   	<div class="container">
+      <h2> Exchanges </h2>
+      <form action="" method="POST"><h1>Modify the ticker</h1>
+      	<!--
+      <div class="dropdown">
+      	<select name= "exchanges" method="GET" action="/">
+	      	{% for value in base %}
+		    <option value= "{{value}}"><a href="">{{value}}</a></option>"
+		    {% endfor %}
+		</select>
+	-->
+	   </div>
+	   </form>
+	</div>
+   </body>
+
+</html>
