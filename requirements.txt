@@ -26,7 +26,7 @@ hexbytes==0.1.0
 idna==2.7
 idna-ssl==1.1.0
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 lru-dict==1.1.6
 MarkupSafe==1.0
 multidict==4.4.2
