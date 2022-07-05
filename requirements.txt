@@ -35,7 +35,7 @@ parsimonious==0.8.0
 pkginfo==1.4.2
 pusher==2.0.1
 pyasn1==0.4.4
-pycares==2.3.0
+pycares==4.2.0
 pycparser==2.19
 pycryptodome==3.6.6
 pyOpenSSL==18.0.0
