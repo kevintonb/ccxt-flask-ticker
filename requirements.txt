@@ -6,7 +6,7 @@ attrdict==2.0.0
 attrs==18.2.0
 cctx==1.0.0
 ccxt==1.17.317
-certifi==2018.8.24
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 click==6.7
